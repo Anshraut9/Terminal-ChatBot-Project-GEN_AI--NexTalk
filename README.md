@@ -18,7 +18,7 @@ NexTalk is an advanced conversational AI chatbot that combines the power of gene
    2.1. FAISS (Facebook AI Similarity Search)
    2.2. Wikipedia API
 3. Programming:
-   3.3. Python (PyTorch, Hugging Face Transformers)
+   3.1. Python (PyTorch, Hugging Face Transformers)
 4. Utilities:
    4.1. Datetime, Regex
 
