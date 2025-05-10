@@ -7,7 +7,7 @@ NexTalk is an advanced conversational AI chatbot that combines the power of gene
 3.  Knowledge Retrieval: Wikipedia API integration for answering factual queries.
 4.  Sliding-Window Memory: Maintains multi-turn context for coherent long conversations.
 5.  Optimized Performance: GPU-accelerated inference and lightweight retrieval for fast responses.
-6.  calable Design: Docker-ready architecture for easy deployment and scaling.
+6.  Scalable Design: Docker-ready architecture for easy deployment and scaling.
 7.  Robust Error Handling: Graceful fallbacks for invalid inputs and API failures.
 
 ## Technologies Used
