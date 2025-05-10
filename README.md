@@ -2,13 +2,13 @@
 NexTalk is an advanced conversational AI chatbot that combines the power of generative language models with knowledge retrieval systems to deliver context-aware, factually accurate, and engaging conversations. By integrating DialoGPT-large for natural dialogue generation and Sentence-BERT + FAISS for factual grounding, NexTalk overcomes the limitations of traditional chatbots and ensures a balanced and reliable user experience.
 
 ## Features
-🌟 Hybrid Architecture: Combines generative responses and retrieval-based factual answers.
-🕒 Real-Time Utilities: Provides current time, date, math calculations, and jokes.
-📚 Knowledge Retrieval: Wikipedia API integration for answering factual queries.
-🧠 Sliding-Window Memory: Maintains multi-turn context for coherent long conversations.
-⚡ Optimized Performance: GPU-accelerated inference and lightweight retrieval for fast responses.
-🐳 Scalable Design: Docker-ready architecture for easy deployment and scaling.
-🛡️ Robust Error Handling: Graceful fallbacks for invalid inputs and API failures.
+1.  Hybrid Architecture: Combines generative responses and retrieval-based factual answers.
+2.  Real-Time Utilities: Provides current time, date, math calculations, and jokes.
+3.  Knowledge Retrieval: Wikipedia API integration for answering factual queries.
+4.  Sliding-Window Memory: Maintains multi-turn context for coherent long conversations.
+5.  Optimized Performance: GPU-accelerated inference and lightweight retrieval for fast responses.
+6.  calable Design: Docker-ready architecture for easy deployment and scaling.
+7.  Robust Error Handling: Graceful fallbacks for invalid inputs and API failures.
 
 ## Technologies Used
 1. Core Models:
